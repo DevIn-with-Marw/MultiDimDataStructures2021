@@ -6,4 +6,4 @@
 
 **DEPENDECIES**: eigen-3.4.0 Library  
 
-**IMPORTANT NOTICE**: known bugs and test file format can be found in te documentation file (has been submitted in greek).
+**IMPORTANT NOTICE**: known bugs and test file format can be found in te documentation file.
